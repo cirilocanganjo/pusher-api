@@ -1,1 +1,1 @@
-### Integrating Laravel with push API
+### Integrating Laravel with Push API Websocket
